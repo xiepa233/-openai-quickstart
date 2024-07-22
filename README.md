@@ -5,6 +5,14 @@
 </p>
 
 
+## Day 1
+
+[Check out this ShareGPT conversation](https://sharegpt.com/c/XCX26GT)
+
+
+
+
+
 本项目旨在为所有对大型语言模型及其在生成式人工智能（AIGC）场景中应用的人们提供一站式学习资源。通过提供理论基础，开发基础，和实践示例，该项目对这些前沿主题提供了全面的指导。
 
 ## 特性
